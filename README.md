@@ -1,4 +1,4 @@
-# Hackathon-FoodBridge
+# FoodBridge
 Unit project 
 FoodBridge 
 
