@@ -56,6 +56,72 @@ Who Benefits?
 * Nonprofit organizations: Receive support to serve their communities.
 * The environment: Benefits from preventing avoidable food waste.
 
+  FRAMEWORK
+                   FOODBRIDGE
+     Food Recovery and Redistribution System
+                         |
+          +--------------+--------------+
+          |                             |
+     THE PROBLEM                   THE SOLUTION
+          |                             |
+   +------+-------+             +-------+--------+
+   |              |             |                |
+Food Waste     World Hunger   Food Recovery   Meal Redistribution
+   |              |             |                |
+   +------+-------+             +-------+--------+
+          |                             |
+          +-------------+---------------+
+                        |
+                  SYSTEM PROCESS
+                        |
+          +-------------v-------------+
+          | 1. FOOD DONORS             |
+          | Supermarkets, restaurants,|
+          | hotels, food producers    |
+          +-------------+-------------+
+                        |
+          +-------------v-------------+
+          | 2. FOOD REGISTRATION       |
+          | Type, quantity, location,  |
+          | collection deadline        |
+          +-------------+-------------+
+                        |
+          +-------------v-------------+
+          | 3. SAFETY INSPECTION       |
+          | Verify food eligibility    |
+          +-------------+-------------+
+                        |
+          +-------------v-------------+
+          | 4. COLLECTION & TRANSPORT  |
+          | Safe handling and delivery|
+          +-------------+-------------+
+                        |
+          +-------------v-------------+
+          | 5. MEAL PREPARATION        |
+          | Authorized preparation    |
+          | centers and trained staff |
+          +-------------+-------------+
+                        |
+          +-------------v-------------+
+          | 6. MEAL DISTRIBUTION       |
+          | Nonprofits, shelters,      |
+          | community organizations    |
+          +-------------+-------------+
+                        |
+          +-------------v-------------+
+          | 7. IMPACT EVALUATION       |
+          | Food recovered, meals      |
+          | distributed, people reached|
+          +-------------+-------------+
+                        |
+                  EXPECTED IMPACT
+                        |
+          +-------------+-------------+
+          |                           |
+    LESS FOOD WASTE            MORE MEALS
+                               FOR PEOPLE
+                               IN NEED
+
 Expected Impact
 
 FoodBridge aims to contribute to:
